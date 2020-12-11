@@ -7,7 +7,7 @@ Facebook coding practice problem.
 
 If interested in my approach please visit the following post on my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2020/12/12/slow-sum/
 
 Keep on reading and experiemnting.
 It is the best way to lear.
